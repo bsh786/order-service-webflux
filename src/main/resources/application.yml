@@ -1,0 +1,8 @@
+
+client-service:
+   product:
+     service:
+       url: http://localhost:8091/product/
+   user-transaction:
+     service:
+       url: http://localhost:8092/transaction/
